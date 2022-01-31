@@ -63,6 +63,8 @@ After that, we calculate the water that can be stored on the right.
 
 /*
 Day-1 30 mins extra activity
+Learned OOPS- Multi threading and multitasking.
+Difference between both
 Learned and solved OOPS questions on Infosys site
 Podcast on spotify discussing about How big and interesting Cyber world is. 
 Few insights were How vulnerable our data is. 
