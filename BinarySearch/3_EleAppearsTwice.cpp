@@ -2,7 +2,15 @@
 using namespace std;
 
 
-int findsingleXOR(vector<int>)
+int findsingleXOR(vector<int> &nums){
+        int n = nums.size();
+        int xor_of_all = 0;
+        for(int i=0;i<n;i++){
+            xor_of_all ^= nums[i];
+        }
+        return xor_of_all;
+}
+
 int findsingleeleBS(vector<int> &nums){
     int low=0;
     int high=nums.size()-1;
