@@ -40,3 +40,9 @@ int main(){
     int el = findsingleele(v);
     cout<<el<<endl;
 }
+
+/*
+Learnings today:
+Solved Java questions
+Walked 2.9 km
+*/
